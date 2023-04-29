@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>sp?id=form&amp;table=problem</description>
+        <field>impact</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>portal</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+    if (typeof g_ui_scripts !== 'undefined')
+        g_ui_scripts.getUIScript('x_376477_srcc.execute')
+        .then(function(controller) {
+
+            var request = {
+                name: 'onChange',
+                request: {
+                    control: control,
+                    oldValue: oldValue,
+                    newValue: newValue,
+                    isLoading: isLoading,
+                    isTemplate: isTemplate
+                },
+
+                view: function view(response) {
+                    g_form.setValue('description', response);
+                }
+            };
+
+            return controller.execute(request);
+        });
+    else {
+        g_form.addInfoMessage('portal/begin');
+        g_form.addInfoMessage('portal/response: ');
+    }
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 13:25:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>436a01acdb2a2110a049d8b6f496198d</sys_id>
+        <sys_mod_count>110</sys_mod_count>
+        <sys_name>portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_script_client_436a01acdb2a2110a049d8b6f496198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 18:57:08</sys_updated_on>
+        <table>problem</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view>sys_popup</view>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>false</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name/>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 13:24:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad6acd6cdb2a2110a049d8b6f49619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Scoped Resuable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Resuable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_script_client_ad6acd6cdb2a2110a049d8b6f49619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 13:24:27</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</application>
+        <file_path/>
+        <instance_id>ae41390edb7cf3043050ac44d49619b5</instance_id>
+        <instance_name>dev81107</instance_name>
+        <name>sys_script_client_ad6acd6cdb2a2110a049d8b6f49619ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client"><sys_script_client action="INSERT_OR_UPDATE"><active>true</active><applies_extended>false</applies_extended><condition/><description/><field/><global>false</global><isolate_script>true</isolate_script><messages/><name/><order/><script/><sys_class_name>sys_script_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-28 13:24:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ad6acd6cdb2a2110a049d8b6f49619ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Scoped Resuable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package><sys_policy/><sys_scope display_value="Scoped Resuable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope><sys_update_name>sys_script_client_ad6acd6cdb2a2110a049d8b6f49619ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-28 13:24:27</sys_updated_on><table/><type/><ui_type>0</ui_type><view/></sys_script_client></record_update>]]></payload>
+        <payload_hash>-2038165044</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e07d07b4dbee6110a049d8b6f4961940</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 13:24:27</sys_created_on>
+        <sys_id>b26a856cdb2a2110a049d8b6f49619e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>187c80956090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 17:35:53</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>fa6a856c322a2110b12b1b2e0131f9df</update_guid>
+        <update_guid_history>fa6a856c322a2110b12b1b2e0131f9df:-2038165044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 13:25:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>2f8e34aee34249f0a74dde2c2e41d0a4</sys_id>
+        <sys_metadata>ad6acd6cdb2a2110a049d8b6f49619ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_scope_delete display_value="">0b69e1d23d9a4e7c9ea8402d2852ef10</sys_scope_delete>
+        <sys_update_name>sys_script_client_ad6acd6cdb2a2110a049d8b6f49619ff</sys_update_name>
+        <sys_update_version display_value="sys_script_client_ad6acd6cdb2a2110a049d8b6f49619ff">b26a856cdb2a2110a049d8b6f49619e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 13:25:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

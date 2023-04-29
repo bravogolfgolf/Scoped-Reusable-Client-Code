@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="catalog_item">39e747fcdbae6110a049d8b6f49619e2</sc_cat_item>
+        <sc_category display_value="Accessories">d258e415c611227a0013072db7288863</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 17:21:23</sys_created_on>
+        <sys_id>133a4b70dbee6110a049d8b6f49619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accessories.catalog_item</sys_name>
+        <sys_package display_value="Scoped Resuable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Resuable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sc_cat_item_category_133a4b70dbee6110a049d8b6f49619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 17:21:23</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</application>
+        <file_path/>
+        <instance_id>ae41390edb7cf3043050ac44d49619b5</instance_id>
+        <instance_name>dev81107</instance_name>
+        <name>sc_cat_item_category_133a4b70dbee6110a049d8b6f49619ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="catalog_item">39e747fcdbae6110a049d8b6f49619e2</sc_cat_item><sc_category display_value="Accessories">d258e415c611227a0013072db7288863</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 17:21:23</sys_created_on><sys_id>133a4b70dbee6110a049d8b6f49619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Accessories.catalog_item</sys_name><sys_package display_value="Scoped Resuable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package><sys_policy/><sys_scope display_value="Scoped Resuable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope><sys_update_name>sc_cat_item_category_133a4b70dbee6110a049d8b6f49619ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 17:21:23</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>44860304</payload_hash>
+        <record_name>Accessories.catalog_item</record_name>
+        <reverted_from/>
+        <source>e07d07b4dbee6110a049d8b6f4961940</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 17:21:23</sys_created_on>
+        <sys_id>9b3a0bb0dbee6110a049d8b6f4961902</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>187ce089d1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 17:35:53</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>d33a0bb080ee6110d91fe612024c5902</update_guid>
+        <update_guid_history>d33a0bb080ee6110d91fe612024c5902:44860304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Accessories.catalog_item">ce9a83f0dbee6110a049d8b6f49619dd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 17:22:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>53ca42ee98304d008a22f4b8866b8400</sys_id>
+        <sys_metadata>133a4b70dbee6110a049d8b6f49619ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accessories.catalog_item</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_scope_delete display_value="">0b69e1d23d9a4e7c9ea8402d2852ef10</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_133a4b70dbee6110a049d8b6f49619ef</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_133a4b70dbee6110a049d8b6f49619ef">9b3a0bb0dbee6110a049d8b6f4961902</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 17:22:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -23,15 +23,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-28 13:19:02</sys_created_on>
         <sys_id>95d8852cdb2a2110a049d8b6f4961962</sys_id>
-        <sys_mod_count>120</sys_mod_count>
+        <sys_mod_count>126</sys_mod_count>
         <sys_name>x_376477_srcc.execute</sys_name>
         <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
         <sys_update_name>sys_ui_script_95d8852cdb2a2110a049d8b6f4961962</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-29 18:18:05</sys_updated_on>
-        <ui_type>10</ui_type>
+        <sys_updated_on>2023-04-29 21:15:59</sys_updated_on>
+        <ui_type>1</ui_type>
         <use_scoped_format>false</use_scoped_format>
     </sys_ui_script>
 </record_update>

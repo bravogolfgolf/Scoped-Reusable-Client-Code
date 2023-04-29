@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="DELETE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
+        <name>x_376477_srcc.execute_d</name>
+        <script><![CDATA[execute_d = (function() {
+    "use strict";
+
+    /* set your private variables and functions here. For example: 
+    	var privateVar = 0; 
+    	function private_function() {
+    		return ++privateVar;
+    	}
+    */
+
+    /* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+    	x_376477_srcc.sharedVar = 0; 
+
+     Then access them in your scripts the same way. For example: 
+    	function get_shared() {
+    		return x_376477_srcc.sharedVar;
+    	}
+    */
+
+    return {
+
+        /* set your public API here. For example:
+        		incrementAndReturnPrivateVar: function() {
+        			return private_function();
+        		},
+        */
+        type: "execute_d"
+    };
+})();]]></script>
+        <script_name>execute_d</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 20:09:06</sys_created_on>
+        <sys_id>6180333cdb62a110a049d8b6f4961952</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_376477_srcc.execute_d</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_ui_script_6180333cdb62a110a049d8b6f4961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 20:17:56</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</application>
+        <file_path/>
+        <instance_id>ae41390edb7cf3043050ac44d49619b5</instance_id>
+        <instance_name>dev81107</instance_name>
+        <name>sys_ui_script_6180333cdb62a110a049d8b6f4961952</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;ignore_in_now_experience&gt;false&lt;/ignore_in_now_experience&gt;&lt;name&gt;x_376477_srcc.execute_d&lt;/name&gt;&lt;script&gt;&lt;![CDATA[execute_d = (function() {
+    "use strict";
+
+    /* set your private variables and functions here. For example: 
+    	var privateVar = 0; 
+    	function private_function() {
+    		return ++privateVar;
+    	}
+    */
+
+    /* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+    	x_376477_srcc.sharedVar = 0; 
+
+     Then access them in your scripts the same way. For example: 
+    	function get_shared() {
+    		return x_376477_srcc.sharedVar;
+    	}
+    */
+
+    return {
+
+        /* set your public API here. For example:
+        		incrementAndReturnPrivateVar: function() {
+        			return private_function();
+        		},
+        */
+        type: "execute_d"
+    };
+})();]]&gt;&lt;/script&gt;&lt;script_name&gt;execute_d&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-29 20:09:06&lt;/sys_created_on&gt;&lt;sys_id&gt;6180333cdb62a110a049d8b6f4961952&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_376477_srcc.execute_d&lt;/sys_name&gt;&lt;sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc"&gt;acc8c9e8db2a2110a049d8b6f49619d8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Scoped Reusable Client Code"&gt;acc8c9e8db2a2110a049d8b6f49619d8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_6180333cdb62a110a049d8b6f4961952&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-29 20:17:56&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>491713171</payload_hash>
+        <record_name>x_376477_srcc.execute_d</record_name>
+        <reverted_from/>
+        <source>8f8f1fb4db22a110a049d8b6f4961914</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 20:17:56</sys_created_on>
+        <sys_id>19a237bcdb62a110a049d8b6f4961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ceaa3e770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 20:17:56</sys_updated_on>
+        <type>UI Script</type>
+        <update_guid>11a237bce462a110eccc9756179cbe24</update_guid>
+        <update_guid_history>11a237bce462a110eccc9756179cbe24:491713171,04a07ff83e62a11099fe8901f2eca97e:1700824918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 20:23:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_script">sys_ui_script</sys_db_object>
+        <sys_id>2afb8bce4a1146ae8a5b10c73c21d7b1</sys_id>
+        <sys_metadata>6180333cdb62a110a049d8b6f4961952</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376477_srcc.execute_d</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_scope_delete display_value="">0b69e1d23d9a4e7c9ea8402d2852ef10</sys_scope_delete>
+        <sys_update_name>sys_ui_script_6180333cdb62a110a049d8b6f4961952</sys_update_name>
+        <sys_update_version display_value="sys_ui_script_6180333cdb62a110a049d8b6f4961952">19a237bcdb62a110a049d8b6f4961924</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 20:23:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

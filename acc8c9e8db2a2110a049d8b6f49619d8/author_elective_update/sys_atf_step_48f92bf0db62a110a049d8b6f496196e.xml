@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+Impact = 1 - High</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:39:53</sys_created_on>
+        <sys_id>48f92bf0db62a110a049d8b6f496196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_atf_step_48f92bf0db62a110a049d8b6f496196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:39:53</sys_updated_on>
+        <table>problem</table>
+        <test display_value="Desktop">7b2923b0db62a110a049d8b6f496198e</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=48f92bf0db62a110a049d8b6f496196e"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>48f92bf0db62a110a049d8b6f496196e</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:39:53</sys_created_on>
+        <sys_id>00f9aff0db62a110a049d8b6f49619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:39:53</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>48f92bf0db62a110a049d8b6f496196e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:39:53</sys_created_on>
+        <sys_id>04f9aff0db62a110a049d8b6f49619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:39:53</sys_updated_on>
+        <value>problem</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>48f92bf0db62a110a049d8b6f496196e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:39:53</sys_created_on>
+        <sys_id>c4f9aff0db62a110a049d8b6f49619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:39:53</sys_updated_on>
+        <value>impact=1^EQ</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=48f92bf0db62a110a049d8b6f496196e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</application>
+        <file_path/>
+        <instance_id>ae41390edb7cf3043050ac44d49619b5</instance_id>
+        <instance_name>dev81107</instance_name>
+        <name>sys_atf_step_48f92bf0db62a110a049d8b6f496196e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Set the following values on the form:
+Impact = 1 - High</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>5</order><snapshot/><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 19:39:53</sys_created_on><sys_id>48f92bf0db62a110a049d8b6f496196e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package><sys_policy/><sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope><sys_update_name>sys_atf_step_48f92bf0db62a110a049d8b6f496196e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 19:39:53</sys_updated_on><table>problem</table><test display_value="Desktop">7b2923b0db62a110a049d8b6f496198e</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=48f92bf0db62a110a049d8b6f496196e"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>48f92bf0db62a110a049d8b6f496196e</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 19:39:53</sys_created_on><sys_id>00f9aff0db62a110a049d8b6f49619f2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 19:39:53</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>48f92bf0db62a110a049d8b6f496196e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 19:39:53</sys_created_on><sys_id>04f9aff0db62a110a049d8b6f49619f2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 19:39:53</sys_updated_on><value>problem</value><variable display_value="Table">424ca6465320220002c6435723dc34b5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>48f92bf0db62a110a049d8b6f496196e</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 19:39:53</sys_created_on><sys_id>c4f9aff0db62a110a049d8b6f49619f2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 19:39:53</sys_updated_on><value>impact=1^EQ</value><variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=48f92bf0db62a110a049d8b6f496196e"/></record_update>]]></payload>
+        <payload_hash>1749128400</payload_hash>
+        <record_name>Set Field Values</record_name>
+        <reverted_from/>
+        <source>8f8f1fb4db22a110a049d8b6f4961914</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:39:53</sys_created_on>
+        <sys_id>c8f9aff0db62a110a049d8b6f49619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ce876a880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:39:53</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>04f9aff0d062a110871ad2383c8c7ef4</update_guid>
+        <update_guid_history>04f9aff0d062a110871ad2383c8c7ef4:1749128400</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:40:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>1add64470a7d4568856e6c062d913b84</sys_id>
+        <sys_metadata>48f92bf0db62a110a049d8b6f496196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_scope_delete display_value="">0b69e1d23d9a4e7c9ea8402d2852ef10</sys_scope_delete>
+        <sys_update_name>sys_atf_step_48f92bf0db62a110a049d8b6f496196e</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_48f92bf0db62a110a049d8b6f496196e">c8f9aff0db62a110a049d8b6f49619f4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:40:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

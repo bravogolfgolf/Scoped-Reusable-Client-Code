@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:29:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78772770db62a110a049d8b6f496190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scoped Reusable Client Code</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_app_application_78772770db62a110a049d8b6f496190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:29:29</sys_updated_on>
+        <title>Scoped Reusable Client Code</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</application>
+        <file_path/>
+        <instance_id>ae41390edb7cf3043050ac44d49619b5</instance_id>
+        <instance_name>dev81107</instance_name>
+        <name>sys_app_application_78772770db62a110a049d8b6f496190c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 19:29:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>78772770db62a110a049d8b6f496190c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scoped Reusable Client Code</sys_name><sys_overrides/><sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package><sys_policy/><sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope><sys_update_name>sys_app_application_78772770db62a110a049d8b6f496190c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 19:29:29</sys_updated_on><title>Scoped Reusable Client Code</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1989852012</payload_hash>
+        <record_name>Scoped Reusable Client Code</record_name>
+        <reverted_from/>
+        <source>8f8f1fb4db22a110a049d8b6f4961914</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:29:29</sys_created_on>
+        <sys_id>6f87e370db62a110a049d8b6f4961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187ce7de3100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 19:29:29</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>a787e3704a62a110b6faa4d4880cf418</update_guid>
+        <update_guid_history>a787e3704a62a110b6faa4d4880cf418:1989852012</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Scoped Reusable Client Code">19722559dba22110a049d8b6f496197c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:04:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>71aea26a9b814d20826e8c2264d7dfc4</sys_id>
+        <sys_metadata>78772770db62a110a049d8b6f496190c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scoped Reusable Client Code</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_scope_delete display_value="">0b69e1d23d9a4e7c9ea8402d2852ef10</sys_scope_delete>
+        <sys_update_name>sys_app_application_78772770db62a110a049d8b6f496190c</sys_update_name>
+        <sys_update_version display_value="sys_app_application_78772770db62a110a049d8b6f496190c">6f87e370db62a110a049d8b6f4961918</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:04:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

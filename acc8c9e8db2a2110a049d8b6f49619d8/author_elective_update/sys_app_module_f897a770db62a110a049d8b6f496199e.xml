@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/sp?id=list&amp;table=problem</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-29 19:30:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f897a770db62a110a049d8b6f496199e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_app_module_f897a770db62a110a049d8b6f496199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-29 23:28:13</sys_updated_on>
+        <timeline_page/>
+        <title>Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</application>
+        <file_path/>
+        <instance_id>ae41390edb7cf3043050ac44d49619b5</instance_id>
+        <instance_name>dev81107</instance_name>
+        <name>sys_app_module_f897a770db62a110a049d8b6f496199e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Portal</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>100</order><override_menu_roles>false</override_menu_roles><query>/sp?id=list&amp;table=problem</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-29 19:30:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f897a770db62a110a049d8b6f496199e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Portal</sys_name><sys_overrides/><sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package><sys_policy/><sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope><sys_update_name>sys_app_module_f897a770db62a110a049d8b6f496199e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-29 23:28:13</sys_updated_on><timeline_page/><title>Portal</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-433330778</payload_hash>
+        <record_name>Portal</record_name>
+        <reverted_from/>
+        <source>13ba4cc5dbe2a110a049d8b6f49619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:04:55</sys_created_on>
+        <sys_id>9d722559dba22110a049d8b6f4961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187d4697a760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:04:55</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d9722559e8a22110f763bb8ef6c4f579</update_guid>
+        <update_guid_history>d9722559e8a22110f763bb8ef6c4f579:0,743e9cc94626a110aed600f0d2aca219:-2058607030,27d7ab70b562a1101b9bc6d210fe60ce:372963325</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Portal">f8926519dba22110a049d8b6f496199e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:05:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>7d8e6b32101f4fa6b29dbfbbe31cda04</sys_id>
+        <sys_metadata>f897a770db62a110a049d8b6f496199e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_scope_delete display_value="">0b69e1d23d9a4e7c9ea8402d2852ef10</sys_scope_delete>
+        <sys_update_name>sys_app_module_f897a770db62a110a049d8b6f496199e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f897a770db62a110a049d8b6f496199e">9d722559dba22110a049d8b6f4961979</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:05:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
     <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
         <abort_on_failure>false</abort_on_failure>
-        <order/>
+        <order>200</order>
         <sys_class_name>sys_atf_test_suite_test</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-29 19:36:50</sys_created_on>
         <sys_id>a62923f0db62a110a049d8b6f49619c6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>7b2923b0db62a110a049d8b6f496198e</sys_name>
         <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
         <sys_update_name>sys_atf_test_suite_test_a62923f0db62a110a049d8b6f49619c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-29 19:36:50</sys_updated_on>
+        <sys_updated_on>2023-04-30 22:50:55</sys_updated_on>
         <test display_value="Desktop">7b2923b0db62a110a049d8b6f496198e</test>
-        <test_suite display_value="Scoped Reusable Client Code">18606778db22a110a049d8b6f4961997</test_suite>
+        <test_suite display_value="Reusable Client Code">18606778db22a110a049d8b6f4961997</test_suite>
     </sys_atf_test_suite_test>
 </record_update>

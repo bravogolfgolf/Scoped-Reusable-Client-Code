@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Validate that the answer match the following condition:
+Variable 2 CONTAINS "newValue":"2"</description>
+        <display_name>Validate Variable Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Validate Variable Values">5a36c681c37e220076173b0ac3d3aecf</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:58:09</sys_created_on>
+        <sys_id>49aea195dbe22110a049d8b6f496192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate Variable Values</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_atf_step_49aea195dbe22110a049d8b6f496192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:58:09</sys_updated_on>
+        <table/>
+        <test display_value="Catalog Item (Desktop)">db2ee955dbe22110a049d8b6f4961918</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=49aea195dbe22110a049d8b6f496192d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>49aea195dbe22110a049d8b6f496192d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:58:09</sys_created_on>
+        <sys_id>05aea195dbe22110a049d8b6f496192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:58:09</sys_updated_on>
+        <value>cd47219ddba22110a049d8b6f49619de</value>
+        <variable display_value="Item">b46842c1c37e220076173b0ac3d3aebc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>49aea195dbe22110a049d8b6f496192d</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:58:09</sys_created_on>
+        <sys_id>c5aea195dbe22110a049d8b6f496192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:58:09</sys_updated_on>
+        <value>IO:876861dddba22110a049d8b6f496191cLIKE"newValue":"2"^EQ</value>
+        <variable display_value="Catalog Conditions">8a682649c37e220076173b0ac3d3ae47</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_5a36c681c37e220076173b0ac3d3aecf^id=49aea195dbe22110a049d8b6f496192d"/>
+</record_update>

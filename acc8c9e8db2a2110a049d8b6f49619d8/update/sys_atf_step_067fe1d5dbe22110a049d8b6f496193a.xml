@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Answer the questions on the form as follows:
+Variable 1 = Text 2</description>
+        <display_name>Set Variable Values (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Set Variable Values (SP)">2e4229b48703030070870cf888cb0b5c</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 00:01:54</sys_created_on>
+        <sys_id>067fe1d5dbe22110a049d8b6f496193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values (SP)</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sys_atf_step_067fe1d5dbe22110a049d8b6f496193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 00:01:54</sys_updated_on>
+        <table/>
+        <test display_value="Catalog Item (Portal)">33cea195dbe22110a049d8b6f496193b</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=067fe1d5dbe22110a049d8b6f496193a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>067fe1d5dbe22110a049d8b6f496193a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 00:01:54</sys_created_on>
+        <sys_id>4c8f25d5dbe22110a049d8b6f4961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 00:01:54</sys_updated_on>
+        <value>cd47219ddba22110a049d8b6f49619de</value>
+        <variable display_value="Item">d164adb48703030070870cf888cb0b30</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>067fe1d5dbe22110a049d8b6f496193a</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 00:01:54</sys_created_on>
+        <sys_id>888f25d5dbe22110a049d8b6f4961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 00:01:54</sys_updated_on>
+        <value>IO:1bc7699ddba22110a049d8b6f4961972=2^EQ</value>
+        <variable display_value="Variable Values">3f3525f48703030070870cf888cb0b37</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>067fe1d5dbe22110a049d8b6f496193a</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 00:01:54</sys_created_on>
+        <sys_id>c48f25d5dbe22110a049d8b6f4961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 00:01:54</sys_updated_on>
+        <value/>
+        <variable display_value="Multi-row Variable Set">2fba49d673142300688e0d573cf6a748</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_2e4229b48703030070870cf888cb0b5c^id=067fe1d5dbe22110a049d8b6f496193a"/>
+</record_update>

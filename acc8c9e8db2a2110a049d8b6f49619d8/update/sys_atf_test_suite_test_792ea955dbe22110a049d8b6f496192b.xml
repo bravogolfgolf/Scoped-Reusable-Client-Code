@@ -4,17 +4,17 @@
         <order/>
         <sys_class_name>sys_atf_test_suite_test</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-04-29 18:59:11</sys_created_on>
-        <sys_id>0d70a778db22a110a049d8b6f49619ff</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>85802b78db22a110a049d8b6f4961993</sys_name>
+        <sys_created_on>2023-04-30 23:56:29</sys_created_on>
+        <sys_id>792ea955dbe22110a049d8b6f496192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db2ee955dbe22110a049d8b6f4961918</sys_name>
         <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
-        <sys_update_name>sys_atf_test_suite_test_0d70a778db22a110a049d8b6f49619ff</sys_update_name>
+        <sys_update_name>sys_atf_test_suite_test_792ea955dbe22110a049d8b6f496192b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-01 00:02:59</sys_updated_on>
-        <test display_value="Problem Form (Portal)">85802b78db22a110a049d8b6f4961993</test>
+        <sys_updated_on>2023-04-30 23:56:29</sys_updated_on>
+        <test display_value="Catalog Item (Desktop)">db2ee955dbe22110a049d8b6f4961918</test>
         <test_suite display_value="Reusable Client Code">18606778db22a110a049d8b6f4961997</test_suite>
     </sys_atf_test_suite_test>
 </record_update>

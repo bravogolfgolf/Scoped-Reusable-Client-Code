@@ -26,36 +26,19 @@
         },
 
         view: function view(response) {
-            console.log("view/before");
             g_form.setValue('description', response);
-            console.log("view/after");
         }
     };
 
-    function test() {
-        console.log("test/before");
-        try {
+    if (typeof g_ui_scripts === 'undefined')
+        ScriptLoader.getScripts("x_376477_srcc.Reusable.jsdbx", function() {
             x_376477_srcc.Reusable.execute(request);
-        } catch (e) {
-            console.log(e);
-        }
-        console.log("test/after");
-
-    }
-
-    if (typeof g_ui_scripts === 'undefined') {
-        console.log("portal/ScriptLoader/before");
-        ScriptLoader.getScripts("x_376477_srcc.Reusable.jsdbx", test);
-        console.log("portal/ScriptLoader/after");
-    } else {
-        console.log("portal/g_ui_scripts/before");
+        });
+    else
         g_ui_scripts.getUIScript('x_376477_srcc.execute')
-            .then(function(controller) {
-                controller.execute(request);
-            });
-        console.log("portal/g_ui_scripts/after");
-
-    }
+        .then(function(controller) {
+            controller.execute(request);
+        });
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -63,7 +46,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>436a01acdb2a2110a049d8b6f496198d</sys_id>
-        <sys_mod_count>184</sys_mod_count>
+        <sys_mod_count>185</sys_mod_count>
         <sys_name>client</sys_name>
         <sys_overrides/>
         <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
@@ -71,7 +54,7 @@
         <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
         <sys_update_name>sys_script_client_436a01acdb2a2110a049d8b6f496198d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-30 22:46:54</sys_updated_on>
+        <sys_updated_on>2023-04-30 23:49:05</sys_updated_on>
         <table>problem</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

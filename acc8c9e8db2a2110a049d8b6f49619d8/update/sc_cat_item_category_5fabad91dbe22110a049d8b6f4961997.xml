@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Catalog Item">cd47219ddba22110a049d8b6f49619de</sc_cat_item>
+        <sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 23:45:11</sys_created_on>
+        <sys_id>5fabad91dbe22110a049d8b6f4961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Catalog Item</sys_name>
+        <sys_package display_value="Scoped Reusable Client Code" source="x_376477_srcc">acc8c9e8db2a2110a049d8b6f49619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Reusable Client Code">acc8c9e8db2a2110a049d8b6f49619d8</sys_scope>
+        <sys_update_name>sc_cat_item_category_5fabad91dbe22110a049d8b6f4961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 23:45:11</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
